@@ -1,5 +1,5 @@
 # numbers
-10 raqamni takrorlamay yig'indi xosil qilish
+10 raqamni takrorlamay yig'indi xosil qilish <br>
 246 789 1035<br>
 249 786 1035<br>
 264 789 1053<br>
